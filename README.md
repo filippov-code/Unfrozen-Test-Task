@@ -9,9 +9,9 @@
 - Анимация из Spine, соответственно надо разобраться с их библиотекой.
 
 ## Скриншоты
-![](https://github.com/filippov-code/ImagesForREADME/blob/main/UnfrozenTestTask/1.PNG)
-![](https://github.com/filippov-code/ImagesForREADME/blob/main/UnfrozenTestTask/2.PNG)
-![](https://github.com/filippov-code/ImagesForREADME/blob/main/UnfrozenTestTask/3.PNG)
-![](https://github.com/filippov-code/ImagesForREADME/blob/main/UnfrozenTestTask/4.PNG)
-![](https://github.com/filippov-code/ImagesForREADME/blob/main/UnfrozenTestTask/5.PNG)
-![](https://github.com/filippov-code/ImagesForREADME/blob/main/UnfrozenTestTask/6.PNG)
+![](https://github.com/filippov-code/Unfrozen-Test-Task/blob/main/screenshots/1.png)
+![](https://github.com/filippov-code/Unfrozen-Test-Task/blob/main/screenshots/2.png)
+![](https://github.com/filippov-code/Unfrozen-Test-Task/blob/main/screenshots/3.png)
+![](https://github.com/filippov-code/Unfrozen-Test-Task/blob/main/screenshots/4.png)
+![](https://github.com/filippov-code/Unfrozen-Test-Task/blob/main/screenshots/5.png)
+![](https://github.com/filippov-code/Unfrozen-Test-Task/blob/main/screenshots/6.png)
